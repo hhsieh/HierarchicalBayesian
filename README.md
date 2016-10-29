@@ -1,2 +1,2 @@
 # HierarchicalBayesian
-Hosting R code for performing Bayesian statistical modeling
+Hosting R code for performing MCMC modeling
